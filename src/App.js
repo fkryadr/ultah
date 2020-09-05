@@ -13,7 +13,7 @@ class App extends Component {
       "Sehat selalu, kurang2in mengeluh",
       "Sayang orang tua, sayang semuanya",
       "Semoga bisa cepat ke DWP",
-    ], //edit untuk kata2
+    ],
     panggilan: ["Ateu Salma"],
     tanggal_lahir: "30/09/2003", 
     nama: "Ay♥17", 
@@ -27,7 +27,7 @@ class App extends Component {
       "#ABB8C3",
       "#EB144C",
       "#F78DA7",
-    ], //edit untuk plihan warna random
+    ],
   };
 
   constructor(props) {
